@@ -1,0 +1,24 @@
+.products {
+  width: 90%;
+  border-radius: 12px;
+  border: 1px solid #CDCDCD;
+  margin: 0 auto;
+}
+
+.products__container {
+  padding: 12px;
+}
+
+.products__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  padding: 12px;
+  border-bottom: 1px solid #CDCDCD;
+}
+
+.products__content {
+  display: flex;
+  flex-wrap: wrap;
+}
